@@ -9,17 +9,19 @@ Analytics for advertisements on Reddit comment and post dataset.
 Motivation and BusinessValue:
 -----------------------------
 
-
-Reddit has a huge user base,1.65 billion users accessed the site in the last 1 year
-Advertisers need to know where to place ads, 
-which subreddit? 
-What are users taking about?
+  Reddit has a huge user base,1.65 billion users accessed the site in the last 1 year
+  Advertisers need to know where to place ads, 
+    1. which subreddit? 
+    2. What are users taking about?
+    
 Metrics: 
-hottest subreddit( according to the number of comments and score, assuming 500:1 ratio for users to comments) at a given time, 
-topics talked about in the subreddit vs time, 
-Number of users or Number of Comments vs hour of the day histogram.
-Stretch goal 1:Best posts to advertise on, depending on theme.( gender, topic,keyowords)
-Stretch goal 2: would be track simulated engagement, time spent on a post by users.
+----------
+
+1. hottest subreddit( according to the number of comments and score, assuming 500:1 ratio for users to comments) at a given time, 
+2. topics talked about in the subreddit vs time, 
+3. Number of users or Number of Comments vs hour of the day histogram.
+4. Stretch goal 1:Best posts to advertise on, depending on theme.( gender, topic,keyowords)
+5. Stretch goal 2: would be track simulated engagement, time spent on a post by users.
 Data Source:
 --------------
 
