@@ -1,4 +1,4 @@
-# reddit_analyzer
+# Reddit Ad Analyzer
 Real time Analytics of reddit.com historical data for ads.  
 
 Motivation and BusinessValue:
