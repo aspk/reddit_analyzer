@@ -8,6 +8,8 @@ Analytics for advertisements on Reddit comment and post dataset.
 
 Motivation and BusinessValue:
 -----------------------------
+
+
 Reddit has a huge user base,1.65 billion users accessed the site in the last 1 year
 Advertisers need to know where to place ads, 
 which subreddit? 
@@ -20,10 +22,12 @@ Stretch goal 1:Best posts to advertise on, depending on theme.( gender, topic,ke
 Stretch goal 2: would be track simulated engagement, time spent on a post by users.
 Data Source:
 --------------
+
 https://bigquery.cloud.google.com/dataset/fh-bigquery:reddit_comments
 https://bigquery.cloud.google.com/dataset/fh-bigquery:reddit
 Tack stack:
 -------------
+
 Storage on S3
 Kafka
 Spark ( LDA library)
@@ -36,11 +40,13 @@ Dashboard
 
 Engineering Challenge:
 ----------------------
+
 Realtime processing of all subreddits according to timestamp (speed up) in 50 ms window
 Scaling the system with increase in the traffic
 
 Next steps:
 --------------
+
 Learn Kafka
 Switch to java?
 
