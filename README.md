@@ -12,7 +12,7 @@ Two main questions
     1. which subreddit? 
     2. What are users taking about?
     
-Metrics: 
+Metrics and MVP: 
 ----------
 
 1. hottest subreddit( according to the number of comments and score, assuming 500:1 ratio for users to comments) at a given time, 
@@ -37,6 +37,7 @@ Tack stack:
 4. Store results to Cassandra
 5. Store latest results from Cassandra to redis(C++) for fast access
 6. Dashboard
+
 
 Engineering Challenge:
 ----------------------
