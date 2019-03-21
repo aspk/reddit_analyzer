@@ -18,7 +18,7 @@ Metrics and MVP:
 1. hottest subreddit( according to the number of comments and score, assuming 500:1 ratio for users to comments) at a given time, 
 2. topics talked about in the subreddit vs time, 
 3. Number of users or Number of Comments vs hour of the day histogram.
-4. Stretch goal 1:Best posts to advertise on, depending on theme.( gender, topic,keyowords)
+4. Stretch goal 1:Best posts to advertise on, depending on theme.( gender, topic,keyowords , Sports)
 5. Stretch goal 2: would be track simulated engagement, time spent on a post by users.
 
 Data Source:
