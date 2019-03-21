@@ -51,7 +51,7 @@ Scaling the system with increase in the traffic
 Next steps:
 --------------
 
-Learn Kafka
-Switch to java?
+1. Learn Kafka
+2. Switch to java?
 
 
