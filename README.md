@@ -5,7 +5,7 @@ Motivation and BusinessValue:
 -----------------------------
 
 Reddit has a huge user base,1.65 billion users accessed the site in the last 1 year
-and advertisers need to know where to place ads, 
+and advertisers need to know where to place ads to maximize clicks and revenue, 
 
 Two main questions
 
