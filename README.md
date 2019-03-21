@@ -32,7 +32,6 @@ Data Source:
 1. https://bigquery.cloud.google.com/dataset/fh-bigquery:reddit_comments
 2. https://bigquery.cloud.google.com/dataset/fh-bigquery:reddit
 3. https://bigquery.cloud.google.com/dataset/fh-bigquery:reddit_posts
-4.  
 
 Tack stack:
 -------------
