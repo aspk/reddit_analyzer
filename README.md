@@ -31,18 +31,16 @@ Data Source:
 
 1. https://bigquery.cloud.google.com/dataset/fh-bigquery:reddit_comments
 2. https://bigquery.cloud.google.com/dataset/fh-bigquery:reddit
+
 Tack stack:
 -------------
 
-Storage on S3
-Kafka
-Spark ( LDA library)
-Store results to Cassandra
-Store latest results from Cassandra to redis(C++) for fast access
-Dashboard
-
-
-
+1. Storage on S3
+2. Kafka
+3. Spark ( LDA library)
+4. Store results to Cassandra
+5. Store latest results from Cassandra to redis(C++) for fast access
+6. Dashboard
 
 Engineering Challenge:
 ----------------------
