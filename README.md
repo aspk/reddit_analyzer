@@ -1,10 +1,5 @@
 # reddit_analyzer
-Analysis of reddit for ads
-
-Project:
-Analytics for advertisements on Reddit comment and post dataset.
-
-
+Real time Analytics of reddit.com historical data for ads.  
 
 Motivation and BusinessValue:
 -----------------------------
