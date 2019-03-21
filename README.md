@@ -25,11 +25,12 @@ Metrics:
 3. Number of users or Number of Comments vs hour of the day histogram.
 4. Stretch goal 1:Best posts to advertise on, depending on theme.( gender, topic,keyowords)
 5. Stretch goal 2: would be track simulated engagement, time spent on a post by users.
+
 Data Source:
 --------------
 
-https://bigquery.cloud.google.com/dataset/fh-bigquery:reddit_comments
-https://bigquery.cloud.google.com/dataset/fh-bigquery:reddit
+1. https://bigquery.cloud.google.com/dataset/fh-bigquery:reddit_comments
+2. https://bigquery.cloud.google.com/dataset/fh-bigquery:reddit
 Tack stack:
 -------------
 
